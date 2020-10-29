@@ -1,7 +1,7 @@
 # django_blog
 
 To run:
-
+<br><br>
 git clone <repo url>
 source venv/bin/activate
 pip3 install -r requirements.txt
