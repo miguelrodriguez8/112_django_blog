@@ -83,3 +83,10 @@ header h1 a {
     text-decoration: none;
     font-size: larger;
 }
+
+.signup {
+    color: red;
+    margin-right: 2rem;
+    text-decoration: none;
+    font-size: larger;
+}
