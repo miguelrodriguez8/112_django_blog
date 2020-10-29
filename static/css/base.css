@@ -30,7 +30,7 @@ header h1 a {
     
 }
 
-.nav-right a{
+.new-post{
     color: white;
     text-decoration: none;
     font-size: 1.25rem;
@@ -75,4 +75,11 @@ header h1 a {
 .post-home h2{
     color: black;
     text-decoration: none;
+}
+
+.logout {
+    color: red;
+    margin-right: 2rem;
+    text-decoration: none;
+    font-size: larger;
 }
