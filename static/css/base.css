@@ -10,11 +10,11 @@ header {
     border-radius: 5px;
     margin-bottom: 2rem;
     display: flex;
-    background-color: rgb(93, 93, 201);
+    background-color: rgb(200, 209, 166);
 }
 
 header h1 a {
-    color:rgb(0, 247, 255);
+    color:rgb(185, 117, 72);
     text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ header h1 a {
 }
 
 .new-post{
-    color: white;
+    color: rgb(109, 58, 58);
     text-decoration: none;
     font-size: 1.25rem;
 }
@@ -78,7 +78,7 @@ header h1 a {
 }
 
 .logout {
-    color: red;
+    color: rgb(49, 21, 21);
     margin-right: 2rem;
     text-decoration: none;
     font-size: larger;
