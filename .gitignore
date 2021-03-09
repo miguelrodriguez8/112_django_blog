@@ -1,3 +1,4 @@
-/venv/
-blog/__pycache__/
-config/__pycache__/
+venv/*
+*.pyc
+*.__pycache__vs-code/*
+__pycache__/*
