@@ -1,17 +1,3 @@
-# django_blog
+Heroku page:
 
-To run:
-<br><br>
-git clone <repo url>
-
-source venv/bin/activate
-
-pip3 install -r requirements.txt
-
-python3 manage.py runserver
-
-
-
-Heroku demo link:
-
-https://protected-spire-19839.herokuapp.com/
+https://pure-harbor-38117.herokuapp.com/
